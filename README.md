@@ -1,3 +1,4 @@
+
 # CV Multilingue - Maxime Esteves
 
 ## 📋 Description
@@ -34,24 +35,26 @@ CV personnel responsive développé en HTML/CSS, disponible en trois langues (Fr
    - `index-pt.html` pour la version portugaise
 
 ## 📂 Structure du Projet
+```
 .
 ├── index-fr.html
 ├── index-en.html
 ├── index-pt.html
 ├── styles.css
 └── README.md
-
+```
 
 ## 🎨 Personnalisation
 Les couleurs principales sont définies dans les variables CSS :
 
-css
+```css
 :root {
---primary-color: #2b6cb0; / Bleu principal /
---secondary-color: #ebf8ff; / Bleu clair /
---text-color: #2d3748; / Couleur du texte /
---border-color: #e2e8f0; / Couleur des bordures /
+    --primary-color: #2b6cb0; /* Bleu principal */
+    --secondary-color: #ebf8ff; /* Bleu clair */
+    --text-color: #2d3748; /* Couleur du texte */
+    --border-color: #e2e8f0; /* Couleur des bordures */
 }
+```
 
 ## 📱 Responsive Design
 - Layout flexible avec Grid et Flexbox
@@ -70,5 +73,3 @@ MIT License
 
 ## 📧 Contact
 maximesteves31@icloud.com
-
-
